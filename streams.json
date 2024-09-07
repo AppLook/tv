@@ -1,19 +1,11 @@
 [
   {
-    "country": "uk",
     "channel": "BBC News (North America)",
-    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
-    "logo": "https://i.imgur.com/vSz2WEp.png",
-    "categories": ["news"],
-    "languages": ["eng"]
+    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8"
   },
   {
-    "country": "uk",
     "channel": "BEN Television",
-    "url": "https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8",
-    "logo": "https://i.imgur.com/DUAjjvT.png",
-    "categories": ["entertainment"],
-    "languages": ["eng"]
+    "url": "https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8"
   },
   {
     "country": "uk",
